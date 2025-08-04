@@ -16,6 +16,5 @@ public class Main {
         while(i.hasPrevious()){
             System.out.println(i.previous());
         }
-
     }
 }
